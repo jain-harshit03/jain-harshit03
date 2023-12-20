@@ -6,22 +6,12 @@ AI/ML Engineer
 
 A dedicated and results-driven AI and Machine Learning student. I am proficient in a versatile set of programming languages, including Python, Java, and SQL, along with a comprehensive understanding of related technologies. My passion lies in leveraging these skills to tackle real-world challenges and contribute meaningfully to technological advancements. With a keen eye for identifying issues and a proactive approach to problem-solving, I am committed to driving innovation in the field of AI. My project portfolio reflects a strategic vision focused on addressing pressing issues and pushing the boundaries of modern technology. Actively engaged in the dynamic landscape of AI, I am eager to explore innovative applications that bring about positive changes in our daily lives, demonstrating a forward-thinking mindset and a commitment to making a lasting impact in the realm of artificial intelligence.
 
-* 
-🌍
-  I'm based in Pune, India
-* 
-🖥
-️  See my portfolio at [MyPortfolio](http://https://harshit-jain-portfolio1.netlify.app/)
-* 
-✉️
-  You can contact me at [harshitjaintata@gmail.com](mailto:harshitjaintata@gmail.com)
-* 🧠  I'm learning Microservices
-* 
-🤝
-  I'm open to collaborating on Projects
-* 
-⚡
-  Learning new things everyday.
+*  🌍 I'm based in Pune, India
+*  🖥 See my portfolio at [MyPortfolio](http://https://harshit-jain-portfolio1.netlify.app/)
+*  ✉️ You can contact me at [harshitjaintata@gmail.com](mailto:harshitjaintata@gmail.com)
+*  🧠 I'm learning Microservices
+*  🤝 I'm open to collaborating on Projects
+*  ⚡ Learning new things every day
 
 <a href="https://www.github.com/jain-harshit03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jain-harshit03?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
@@ -57,6 +47,8 @@ src="https://img.shields.io/github/followers/jain-harshit03?logo=github&style=fo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/jain-harshit03/TimeTable-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jain-harshit03&repo=TimeTable-Management-System&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/jain-harshit03/Human-Body-Shape-Estimation-Using-Deep-Learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jain-harshit03&repo=Human-Body-Shape-Estimation-Using-Deep-Learning&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
 
 ### Support Me
 
