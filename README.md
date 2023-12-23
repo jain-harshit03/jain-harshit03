@@ -7,7 +7,7 @@ AI/ML Engineer
 A dedicated and results-driven AI and Machine Learning student. I am proficient in a versatile set of programming languages, including Python, Java, and SQL, along with a comprehensive understanding of related technologies. My passion lies in leveraging these skills to tackle real-world challenges and contribute meaningfully to technological advancements. With a keen eye for identifying issues and a proactive approach to problem-solving, I am committed to driving innovation in the field of AI. My project portfolio reflects a strategic vision focused on addressing pressing issues and pushing the boundaries of modern technology. Actively engaged in the dynamic landscape of AI, I am eager to explore innovative applications that bring about positive changes in our daily lives, demonstrating a forward-thinking mindset and a commitment to making a lasting impact in the realm of artificial intelligence.
 
 *  🌍 I'm based in Pune, India
-*  🖥 See my portfolio at [MyPortfolio](http://https://harshit-jain-portfolio1.netlify.app/)
+*  🖥 See my portfolio at [MyPortfolio](https://harshit-jain-portfolio1.netlify.app/)
 *  ✉️ You can contact me at [harshitjaintata@gmail.com](mailto:harshitjaintata@gmail.com)
 *  🧠 I'm learning Microservices
 *  🤝 I'm open to collaborating on Projects
